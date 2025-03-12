@@ -1,4 +1,4 @@
-# Dio Santandeder Bootcamp
+# Dio Santander Bootcamp
 Java RESTful API criada para a Dio Santander Bootcamp.
 
 ## Diagrama de Classes
